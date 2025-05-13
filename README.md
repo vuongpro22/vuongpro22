@@ -1,138 +1,33 @@
-  <h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
-<div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height="360" &#x3c;="" a="">
-</a></div><a href="https://ossinsight.io">
-</a><h4 align="center"><a href="https://ossinsight.io">
-  <b></b></a><b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h4>
-<h2 id="introduction">Introduction</h2>
-<p>OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data.</p>
-<p><a href="https://www.youtube.com/watch?v=6ofDBgXh4So&amp;t=1s">🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software</a></p>
-<h2 id="embed-real-time-widget-in-repos--personal-readmemd-within-30s">Embed Real-time Widget in Repo’s / Personal README.md within 30s!</h2>
-<p>For all charming widgets, please <a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Check it out 👉</a>, here are some examples:</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Repository Activity Trends</th><th>Collaborative Productivity - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Repository Performance Stats - Last 28 days</th><th>Active Contributors - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&amp;limit=100&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Star Geographic Distribution</th><th>Star History</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&amp;repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Company Affiliation</th><th>Lines of Code Changes</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&amp;repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Pull Request Size</th><th>Pull Request Lifecycle</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Currently Working On - Last 28 days</th><th>Top Active Contributors - Last 28 Days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&amp;user_id=12960671&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>Repository Annual Ranking</th><th>Find More</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&amp;collection_id=2&amp;image_size=auto"></td><td><a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Visit our website</a></td></tr></tbody></table>
-<h2 id="contact-us">Contact us</h2>
-<a href="https://twitter.com/OSSInsight" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
-</a><a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
-</a><a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="gmail" style="margin-bottom: 5px;">
-<h2 id="sponsors">Sponsors</h2>
-</a><a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&amp;utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height="50">
-</a> 
+  <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h3 id="smiley_cat-i-am-a-student-at-smk-telkom-malang">:smiley_cat: I am a student at SMK Telkom Malang</h3>
+<h3 id="so-curently-this-is-my-first-try-making-my-readme-hope-you-like-it">so, curently this is my first try making my readme, hope you like it 😄</h3>
+<h3 id="and-you-can-call-me-asthi-or-seta">and, you can call me asthi or seta</h3>
+<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
+<h2 id="by-the-way-here-are-some-of-my-statistics">By the way here are some of my statistics 🚀</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=AkuraDiary&amp;show_icons=true&amp;theme=tokyonight" alt="AkuraDiary's github stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&amp;theme=tokyonight" alt="mystreak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&amp;theme=tokyonight&amp;layout=compact" alt="AkuraDiary's Top Langs"></p>
+<p>🌱 I’m currently learning android in dicoding.com with kotlin</p>
+<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
+<h2 id="contact-me">Contact me :</h2>
+<p>📫 <a href="asthiseta@gmail.com"><img src="https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:asthiseta@gmail.com" alt="Gmail Badge"></a>
+<a href="https://www.instagram.com/asthi_21_/"><img src="https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/asthi_21_/" alt="Instagram Badge"></a></p>
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
+<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<hr>
+<p>Credit: <a href="https://github.com/AkuraDiary">AkuraDiary</a></p>
+<p>Last Edited on: 21/08/2021</p>
+<!--
+**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--> 
