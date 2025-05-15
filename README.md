@@ -41,10 +41,10 @@
 </h3>
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
-  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/b1nhvuong">
+  <a style="margin-left: 10px;" target="_blank" href="">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://github.com/b1nhvuong">
+  <a style="margin-left: 10px;" target="_blank" href="https://github.com/vuongpro22">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/b1nhvuong">
@@ -57,13 +57,9 @@
 
 <h3 id="blogs-posts">Blog posts</h3>
 <!-- BLOG-POST-LIST:START -->
-<ul>
-  <li><a href="https://dev.to/b1nhvuong/instagram-profile-picture-download-using-python">Download Instagram profile picture using Python</a></li>
-  <li><a href="https://dev.to/b1nhvuong/convert-a-image-to-sketch-using-python">Convert an image to sketch using Python</a></li>
-  <li><a href="https://dev.to/b1nhvuong/upload-your-project-files-in-github-using-commands">Upload your project/files to GitHub using commands</a></li>
-</ul>
+<h4>none</h4>
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
-<p>Credit: <a href="https://github.com/b1nhvuong">Binh Vuong</a></p>
+<p>Credit: <a href="https://github.com/vuongpro22">Binh Vuong</a></p>
 <p>Last Edited on: 15/05/2025</p>
