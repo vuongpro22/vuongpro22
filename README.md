@@ -51,8 +51,9 @@
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="mailto:binhvuong221004@gmail.com">
-    <img src="https://img.icons8.com/plasticine/0.5x/email.png">
-  </a>
+  <img src="https://img.icons8.com/doodle/40/000000/apple-mail.png" alt="Email Icon">
+</a>
+
 </div>
 
 <h3 id="blogs-posts">Blog posts</h3>
